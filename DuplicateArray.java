@@ -1,4 +1,4 @@
-public class Main
+public class DuplicateArray
 {
     public static void main(String[] args) {
         int [] arr = new int [] {5, 1, 4, 6, 7, 3, 5, 7, 3};
